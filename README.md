@@ -23,7 +23,7 @@ An endeavour to lay out a plan for the development of producing communities in r
   
 <h2>Project Objectives</h2>
 <span>
-For a single producing community, the project is to deliver:
+The main objective of the project is to deliver a project plan - inclusive of all subsidiary plans - for the development of the aforementioned communities and assuring their continued operation.
   <ol>
     <li></li>
     <li></li>
